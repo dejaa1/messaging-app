@@ -1,6 +1,4 @@
-# Project 5 - Group 004-1
-CS 18000 | Option Three | Due: December 7th, 2020
-
+#
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
